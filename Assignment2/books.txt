@@ -1,6 +1,0 @@
-DRAMA,Harry Potter,2,5698750,J.K Rowling,500,08/06/2000,Liam,0,0
-CRIME,Fast Ice,1,6717978,Clive Cussler,900,14/05/2021,Mary,15,0
-DRAMA,Toxic,4,85785005,Richard Flanagan,900,12/25/2009,Bob,9,0
-CRIME,The Russian,6,123467862,James Patterson,450,05/09/2007,Luke,16,0
-DRAMA,The Secrets,5,68590,People of Perth,11,18/09/1991,Luke,16,0
-CRIME,Win,3,6868201,Harlan Coben,15,21/01/2001,Luke,6,0
